@@ -58,8 +58,7 @@ The testbench includes three test cases:
 
 ### Simulation Waveform
 
-![SPI Master Simulation](sim/spi_master_waveforms_combined.png)
-
+![SPI Master Simulation](spi_master_waveforms_combined.png)
 ## Project Structure
 
 ```text
